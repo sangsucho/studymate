@@ -1,5 +1,7 @@
 # codewave
-# 제목1
+# JSP_Project StudyMate
+
+# JSP_Project
 
 ``` java
 public void mian(){
