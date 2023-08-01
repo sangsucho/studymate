@@ -1,11 +1,12 @@
 # codewave
 # JSP_Project StudyMate
 JSP_Project
+<img width="1156" alt="studymate_main" src="https://github.com/sangsucho/studymate/assets/123713707/dec37a5d-b5bb-41ad-b41c-8fee70dd50c6">
 
-<img width="{100%}" src="{/Users/chosangsu/Desktop/studymate_main.png}"/>
 
 ``` java
-public void mian(){
+public void mian(){![Uploading studymate_main.png…]()
+
   System.out.println();
 }
 ```
