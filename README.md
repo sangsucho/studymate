@@ -2,7 +2,7 @@
 # JSP_Project StudyMate
 JSP_Project
 
-<img width="{80%}" src="{/Users/chosangsu/Desktop/studymate_main.png}"/>
+<img width="{100%}" src="{/Users/chosangsu/Desktop/studymate_main.png}"/>
 
 ``` java
 public void mian(){
