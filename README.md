@@ -1,5 +1,4 @@
 # codewave
-# JSP_Project StudyMate
 ## ProjectName : StudyMate
 
 <img width="80%" alt="studymate_main" src="https://github.com/sangsucho/studymate/assets/123713707/dec37a5d-b5bb-41ad-b41c-8fee70dd50c6">
