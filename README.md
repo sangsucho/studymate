@@ -1,7 +1,8 @@
 # codewave
 # JSP_Project StudyMate
+JSP_Project
 
-# JSP_Project
+<img width="{80%}" src="{/Users/chosangsu/Desktop}"/>
 
 ``` java
 public void mian(){
