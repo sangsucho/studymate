@@ -25,7 +25,7 @@
 - ORM : Mybatis
 
 ## 🧾STUDYMATE 포트폴리오(PDF)
-[StudyMate_Portfolio]([스터디메이트_포트폴리오.pdf.zip](https://github.com/sangsucho/studymate/files/12224089/_.pdf.zip)
+[StudyMate_Portfolio](https://github.com/sangsucho/studymate/files/12224089/_.pdf.zip
 )
 
 
