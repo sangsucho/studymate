@@ -28,6 +28,11 @@
 [StudyMate_Portfolio](https://github.com/sangsucho/studymate/files/12224089/_.pdf.zip
 )
 
+## 📌 내가 맡은 기능 - 포트폴리오 게시판
+
+### 📖 포트폴리오 게시글 작성:
+ - 
+
 
 
 
