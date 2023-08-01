@@ -1,18 +1,16 @@
 # codewave
 # JSP_Project StudyMate
-ProjectName : StudyMate
+## ProjectName : StudyMate
 
 <img width="80%" alt="studymate_main" src="https://github.com/sangsucho/studymate/assets/123713707/dec37a5d-b5bb-41ad-b41c-8fee70dd50c6">
 
 
-``` java
-public void mian(){![Uploading studymate_main.png…]()
+## <img width="10%" src="https://github.com/sangsucho/studymate/assets/123713707/90e2c26a-7689-4c51-b87c-2c7f586ef616"> Service Introduction
 
-  System.out.println();
-}
-```
 
-- 글머리 1
-- 글머리 2
+효율적인 자기 계발을 위한 스터디 관련 서비스의 결합 
 
-1. 순서있는 글머리
+## 🧑‍🤝‍🧑 맴버구성
+|이정현 (팀장)|김준혁 (부팀장)|김윤|유정현|전은실|조상수|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+|[@leejh1118](https://github.com/leejh1118)|[@dafssdf](https://github.com/dafssdf)|[@Eunicekk](https://github.com/Eunicekk)|[@higggu](https://github.com/higggu)|[@Jenna98](https://github.com/Jenna98)|[@sangsucho](https://github.com/sangsucho)|
