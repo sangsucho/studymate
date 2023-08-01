@@ -5,8 +5,7 @@
 <img width="80%" alt="studymate_main" src="https://github.com/sangsucho/studymate/assets/123713707/dec37a5d-b5bb-41ad-b41c-8fee70dd50c6">
 
 
-## <img width="10%" src="https://github.com/sangsucho/studymate/assets/123713707/90e2c26a-7689-4c51-b87c-2c7f586ef616"> Service Introduction
-
+## <img width="10%" alt="studymate_logo" src="https://github.com/sangsucho/studymate/assets/123713707/00690b29-5ad3-40fd-bf1d-e8e1bfc29f54"> Service Introduction
 
 효율적인 자기 계발을 위한 스터디 관련 서비스의 결합 
 
